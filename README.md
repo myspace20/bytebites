@@ -23,11 +23,7 @@
 ![Architecture Diagram](component.png)
 
 ## JWT Authentication Flow
-  ![Architecture Diagram](jwtflow.png)
-
-- Kafka/RabbitMQ Event Flow
-
----
+  ![Architecture Diagram](authflow.png)
 
 ## 🔐 Authentication & Authorization Flow
 
