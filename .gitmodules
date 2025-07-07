@@ -1,0 +1,18 @@
+[submodule "discovery-service"]
+	path = discovery-service
+	url = https://github.com/myspace20/discovery-service.git
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/myspace20/notification-service.git
+[submodule "order-service"]
+	path = order-service
+	url = https://github.com/myspace20/order-service.git
+[submodule "restaurant-service"]
+	path = restaurant-service
+	url = https://github.com/myspace20/restaurant-service.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/myspace20/api-gateway.git
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/myspace20/auth-service.git
